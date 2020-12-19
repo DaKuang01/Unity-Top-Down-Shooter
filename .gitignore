@@ -1,0 +1,11 @@
+.vscode/
+Assembly-CSharp.csproj
+Logs/
+Packages/
+Proj_top_down_shooter.sln
+Temp/
+UserSettings/
+obj/
+ProjectSettings/
+Library/
+Assets/CrossHair\ Pack
